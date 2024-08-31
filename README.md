@@ -2,7 +2,7 @@
 
 _Status Feb 4: The final leaderboards [have been published](https://www.morling.dev/blog/1brc-results-are-in/). Congrats to all the winners, and a big thank you to everyone participating in this challenge as well as to everyone helping to organize it!_
 
-_Status Feb 3: All entries have been evaluated and I am in the process of finalizing the leaderboards._
+_Status Feb 4: All entries have been evaluated and I am in the process of finalizing the leaderboards._
 
 _Status Feb 1: The challenge has been closed for new submissions. No new pull requests for adding submissions are accepted at this time.
 Pending PRs will be evaluated over the next few days._
